@@ -4,7 +4,7 @@
 
 ## Linguagens utilizadas
 - HTML;
-- CSS / SASS;
+- CSS / SCSS;
 - JavaScript;
 - TypeScript;
 - React.
